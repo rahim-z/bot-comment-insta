@@ -1,3 +1,4 @@
+for termux:
   "install l bot"
 git clone https://github.com/rahim-z/bot-comment-insta
 
